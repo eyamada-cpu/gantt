@@ -53,7 +53,7 @@
       "code": "-",
       "name": "市原市（海上）（麦）",
       "icon": "🌾",
-      "collapsed": false,
+      "collapsed": true,
       "tasks": [
         {
           "id": 101,
@@ -2254,5 +2254,5 @@
   "nextDistrictId": 35,
   "nextTaskId": 1,
   "viewYear": 2026,
-  "savedAt": "2026-04-23T04:44:35.559Z"
+  "savedAt": "2026-04-23T04:45:26.320Z"
 }
