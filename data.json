@@ -1,0 +1,2258 @@
+{
+  "districts": [
+    {
+      "id": 1,
+      "code": "-",
+      "name": "キントーン　じぶんページについて",
+      "icon": "📁",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1,
+          "name": "支店内で実験（みんなに説明できるように）",
+          "ps": "2026-05-11",
+          "pe": "2026-05-19",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2,
+          "name": "SAMへ見方等の案内",
+          "ps": "2026-05-18",
+          "pe": "2026-05-22",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3,
+          "name": "SAMからの質問等（練習会内でを想定）",
+          "ps": "2026-06-08",
+          "pe": "2026-06-11",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "code": "-",
+      "name": "市原市（海上）（麦）",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 101,
+          "name": "会議",
+          "ps": "2026-04-08",
+          "pe": "2026-04-08",
+          "as": "2026-04-08",
+          "ae": "2026-04-08",
+          "prog": 100,
+          "members": [
+            "佐々木",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 102,
+          "name": "地図作成・確認",
+          "ps": "2026-04-08",
+          "pe": "2026-04-09",
+          "as": "2026-04-08",
+          "ae": "2026-04-09",
+          "prog": 100,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 103,
+          "name": "配機",
+          "ps": "2026-04-08",
+          "pe": "2026-04-10",
+          "as": "2026-04-08",
+          "ae": "2026-04-09",
+          "prog": 100,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        },
+        {
+          "id": 104,
+          "name": "配機連絡",
+          "ps": "2026-04-08",
+          "pe": "2026-04-10",
+          "as": "2026-04-08",
+          "ae": "2026-04-09",
+          "prog": 100,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "code": "4-4",
+      "name": "茂原市　茂原カントリー（松）",
+      "icon": "🌲",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 201,
+          "name": "会議",
+          "ps": "2026-04-22",
+          "pe": "2026-04-22",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "佐々木",
+            "新井",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 202,
+          "name": "地図作成・確認",
+          "ps": "2026-04-22",
+          "pe": "2026-04-24",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 203,
+          "name": "配機",
+          "ps": "2026-04-22",
+          "pe": "2026-04-24",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        },
+        {
+          "id": 204,
+          "name": "配機連絡",
+          "ps": "2026-04-22",
+          "pe": "2026-04-24",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "伊藤"
+          ],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "code": "1-4",
+      "name": "成田市　PGM（松）",
+      "icon": "🌲",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 301,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 302,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 303,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 304,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "code": "-",
+      "name": "全農　長生（ハウス遮光）",
+      "icon": "⛺",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 401,
+          "name": "会議",
+          "ps": "2026-04-08",
+          "pe": "2026-04-08",
+          "as": "2026-04-08",
+          "ae": "2026-04-08",
+          "prog": 100,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 402,
+          "name": "地図作成・確認",
+          "ps": "2026-04-08",
+          "pe": "2026-04-08",
+          "as": "2026-04-08",
+          "ae": "2026-04-08",
+          "prog": 100,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 403,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 404,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "code": "-",
+      "name": "全農　東京都（産直センター遮光）",
+      "icon": "⛺",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 501,
+          "name": "会議",
+          "ps": "2026-04-15",
+          "pe": "2026-05-29",
+          "as": "2026-04-15",
+          "ae": "",
+          "prog": 10,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 502,
+          "name": "地図作成・確認",
+          "ps": "2026-04-15",
+          "pe": "2026-04-24",
+          "as": "2026-04-15",
+          "ae": "",
+          "prog": 50,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 503,
+          "name": "配機",
+          "ps": "2026-04-15",
+          "pe": "2026-05-29",
+          "as": "2026-04-15",
+          "ae": "",
+          "prog": 10,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 504,
+          "name": "配機連絡",
+          "ps": "2026-05-01",
+          "pe": "2026-05-22",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [
+            "有馬"
+          ],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "code": "1-1",
+      "name": "野田市【今上】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 601,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 602,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 603,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 604,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 605,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "code": "1-1",
+      "name": "野田市【関宿】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 701,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 702,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 703,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 704,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 705,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "code": "1-2",
+      "name": "柏市",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 801,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 802,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 803,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 804,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 805,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "code": "1-3",
+      "name": "我孫子市【久寺家】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 901,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 902,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 903,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 904,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 905,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "code": "1-3",
+      "name": "我孫子市【古戸】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1001,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1002,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1003,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1004,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1005,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "code": "1-3",
+      "name": "我孫子市【新木野】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1101,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1102,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1103,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1104,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1105,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "code": "1-3",
+      "name": "我孫子市【江蔵地・北郷】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1201,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1202,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1203,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1204,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1205,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "code": "1-3",
+      "name": "我孫子市【柏　出耕作】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1301,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1302,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1303,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1304,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1305,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "code": "1-4",
+      "name": "成田市【東和田】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1401,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1402,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1403,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1404,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1405,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "code": "1-5",
+      "name": "富里市",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1501,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1502,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1503,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1504,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1505,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "code": "1-6",
+      "name": "酒々井町",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1601,
+          "name": "会議",
+          "ps": "2026-02-20",
+          "pe": "2026-02-20",
+          "as": "2026-02-20",
+          "ae": "2026-02-20",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1602,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1603,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1604,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1605,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "code": "2-1",
+      "name": "香取市【佐原】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1701,
+          "name": "会議",
+          "ps": "2026-02-06",
+          "pe": "2026-02-06",
+          "as": "2026-02-06",
+          "ae": "2026-02-06",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1702,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1703,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1704,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1705,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "code": "2-1",
+      "name": "香取市【栗源】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1801,
+          "name": "会議",
+          "ps": "2026-02-06",
+          "pe": "2026-02-06",
+          "as": "2026-02-06",
+          "ae": "2026-02-06",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1802,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 1803,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1804,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1805,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "code": "2-2",
+      "name": "多古町【船越・牛尾】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 1901,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1902,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1903,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1904,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 1905,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "code": "2-2",
+      "name": "多古町【南並木】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2001,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2002,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2003,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2004,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2005,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "code": "2-2",
+      "name": "多古町【借当・谷津】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2101,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2102,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2103,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2104,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2105,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "code": "2-2",
+      "name": "多古町【高田】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2201,
+          "name": "会議",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2202,
+          "name": "地図作成・確認",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2203,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2204,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2205,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "code": "3-1",
+      "name": "銚子市【岡野台】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2301,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2302,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2303,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2304,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2305,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "code": "3-1",
+      "name": "銚子市【本城】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2401,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2402,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2403,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2404,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2405,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "code": "3-2",
+      "name": "旭市【十日市場】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2501,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2502,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2503,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2504,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2505,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "code": "3-2",
+      "name": "旭市【小川】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2601,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2602,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2603,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2604,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2605,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "code": "3-2",
+      "name": "旭市【川口工区】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2701,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2702,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2703,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2704,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2705,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "code": "3-2",
+      "name": "旭市【干潟】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2801,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2802,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2803,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2804,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2805,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "code": "3-3",
+      "name": "匝瑳市【八日市場】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 2901,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2902,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 2903,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2904,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 2905,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "code": "3-3",
+      "name": "匝瑳市【野栄】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 3001,
+          "name": "会議",
+          "ps": "2026-02-17",
+          "pe": "2026-02-17",
+          "as": "2026-02-17",
+          "ae": "2026-02-17",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3002,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3003,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3004,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3005,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "code": "4-1",
+      "name": "横芝光町【光】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 3101,
+          "name": "会議",
+          "ps": "2026-02-16",
+          "pe": "2026-02-16",
+          "as": "2026-02-16",
+          "ae": "2026-02-16",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3102,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3103,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3104,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3105,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "code": "4-1",
+      "name": "横芝光町【小堤】",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 3201,
+          "name": "会議",
+          "ps": "2026-02-16",
+          "pe": "2026-02-16",
+          "as": "2026-02-16",
+          "ae": "2026-02-16",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3202,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3203,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3204,
+          "name": "配機",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        },
+        {
+          "id": 3205,
+          "name": "配機連絡",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "code": "4-1",
+      "name": "横芝光町【鳥喰】上・沼",
+      "icon": "🌾",
+      "collapsed": false,
+      "tasks": [
+        {
+          "id": 3301,
+          "name": "会議",
+          "ps": "2026-02-16",
+          "pe": "2026-02-16",
+          "as": "2026-02-16",
+          "ae": "2026-02-16",
+          "prog": 100,
+          "members": [
+            "伊藤",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3302,
+          "name": "地図作成・確認",
+          "ps": "2026-05-15",
+          "pe": "2026-06-15",
+          "as": "2026-05-15",
+          "ae": "2026-06-15",
+          "prog": 0,
+          "members": [
+            "山田",
+            "有馬"
+          ],
+          "exported": true
+        },
+        {
+          "id": 3303,
+          "name": "軽トラ手配",
+          "ps": "",
+          "pe": "",
+          "as": "",
+          "ae": "",
+          "prog": 0,
+          "members": [],
+          "exported": true
+        }
+      ]
+    }
+  ],
+  "nextDistrictId": 35,
+  "nextTaskId": 1,
+  "viewYear": 2026,
+  "savedAt": "2026-04-23T04:44:35.559Z"
+}
