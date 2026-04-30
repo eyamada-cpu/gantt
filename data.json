@@ -2,7 +2,7 @@
   "districts": [
     {
       "id": 1,
-      "code": "-",
+      "code": "1",
       "name": "キントーン　じぶんページについて",
       "icon": "📁",
       "collapsed": false,
@@ -18,7 +18,7 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2,
@@ -31,7 +31,7 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3,
@@ -44,16 +44,16 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 2,
-      "code": "-",
+      "code": "2",
       "name": "市原市（海上）（麦）",
-      "icon": "🥖",
-      "collapsed": true,
+      "icon": "🌾",
+      "collapsed": false,
       "tasks": [
         {
           "id": 101,
@@ -67,7 +67,7 @@
             "佐々木",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 102,
@@ -80,7 +80,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 103,
@@ -93,7 +93,7 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 104,
@@ -106,13 +106,13 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 3,
-      "code": "4-4",
+      "code": "3",
       "name": "茂原市　茂原カントリー（松）",
       "icon": "🌲",
       "collapsed": false,
@@ -130,7 +130,7 @@
             "新井",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 202,
@@ -143,7 +143,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 203,
@@ -156,7 +156,7 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 204,
@@ -169,13 +169,13 @@
           "members": [
             "伊藤"
           ],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 4,
-      "code": "1-4",
+      "code": "4",
       "name": "成田市　PGM（松）",
       "icon": "🌲",
       "collapsed": false,
@@ -189,7 +189,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 302,
@@ -200,7 +200,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 303,
@@ -211,7 +211,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 304,
@@ -222,13 +222,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 5,
-      "code": "-",
+      "code": "5",
       "name": "全農　長生（ハウス遮光）",
       "icon": "⛺",
       "collapsed": false,
@@ -244,7 +244,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 402,
@@ -257,7 +257,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 403,
@@ -270,7 +270,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 404,
@@ -283,13 +283,13 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 6,
-      "code": "-",
+      "code": "6",
       "name": "全農　東京都（産直センター遮光）",
       "icon": "⛺",
       "collapsed": false,
@@ -305,7 +305,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 502,
@@ -318,7 +318,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 503,
@@ -331,7 +331,7 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 504,
@@ -344,13 +344,13 @@
           "members": [
             "有馬"
           ],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 7,
-      "code": "1-1",
+      "code": "7",
       "name": "野田市【今上】",
       "icon": "🌾",
       "collapsed": false,
@@ -367,7 +367,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 602,
@@ -378,7 +378,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 603,
@@ -389,7 +389,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 604,
@@ -400,7 +400,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 605,
@@ -411,13 +411,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 8,
-      "code": "1-1",
+      "code": "8",
       "name": "野田市【関宿】",
       "icon": "🌾",
       "collapsed": false,
@@ -434,7 +434,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 702,
@@ -445,7 +445,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 703,
@@ -456,7 +456,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 704,
@@ -467,7 +467,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 705,
@@ -478,13 +478,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 9,
-      "code": "1-2",
+      "code": "9",
       "name": "柏市",
       "icon": "🌾",
       "collapsed": false,
@@ -501,7 +501,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 802,
@@ -515,7 +515,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 803,
@@ -526,7 +526,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 804,
@@ -537,7 +537,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 805,
@@ -548,13 +548,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 10,
-      "code": "1-3",
+      "code": "10",
       "name": "我孫子市【久寺家】",
       "icon": "🌾",
       "collapsed": false,
@@ -571,7 +571,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 902,
@@ -585,7 +585,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 903,
@@ -596,7 +596,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 904,
@@ -607,7 +607,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 905,
@@ -618,13 +618,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 11,
-      "code": "1-3",
+      "code": "11",
       "name": "我孫子市【古戸】",
       "icon": "🌾",
       "collapsed": false,
@@ -641,7 +641,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1002,
@@ -655,7 +655,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1003,
@@ -666,7 +666,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1004,
@@ -677,7 +677,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1005,
@@ -688,13 +688,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 12,
-      "code": "1-3",
+      "code": "12",
       "name": "我孫子市【新木野】",
       "icon": "🌾",
       "collapsed": false,
@@ -711,7 +711,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1102,
@@ -725,7 +725,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1103,
@@ -736,7 +736,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1104,
@@ -747,7 +747,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1105,
@@ -758,13 +758,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 13,
-      "code": "1-3",
+      "code": "13",
       "name": "我孫子市【江蔵地・北郷】",
       "icon": "🌾",
       "collapsed": false,
@@ -781,7 +781,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1202,
@@ -795,7 +795,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1203,
@@ -806,7 +806,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1204,
@@ -817,7 +817,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1205,
@@ -828,13 +828,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 14,
-      "code": "1-3",
+      "code": "14",
       "name": "我孫子市【柏　出耕作】",
       "icon": "🌾",
       "collapsed": false,
@@ -851,7 +851,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1302,
@@ -865,7 +865,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1303,
@@ -876,7 +876,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1304,
@@ -887,7 +887,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1305,
@@ -898,13 +898,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 15,
-      "code": "1-4",
+      "code": "15",
       "name": "成田市【東和田】",
       "icon": "🌾",
       "collapsed": false,
@@ -918,7 +918,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1402,
@@ -929,7 +929,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1403,
@@ -940,7 +940,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1404,
@@ -951,7 +951,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1405,
@@ -962,13 +962,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 16,
-      "code": "1-5",
+      "code": "16",
       "name": "富里市",
       "icon": "🌾",
       "collapsed": false,
@@ -985,7 +985,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1502,
@@ -999,7 +999,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1503,
@@ -1010,7 +1010,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1504,
@@ -1021,7 +1021,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1505,
@@ -1032,13 +1032,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 17,
-      "code": "1-6",
+      "code": "17",
       "name": "酒々井町",
       "icon": "🌾",
       "collapsed": false,
@@ -1055,7 +1055,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1602,
@@ -1069,7 +1069,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1603,
@@ -1080,7 +1080,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1604,
@@ -1091,7 +1091,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1605,
@@ -1102,13 +1102,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 18,
-      "code": "2-1",
+      "code": "18",
       "name": "香取市【佐原】",
       "icon": "🌾",
       "collapsed": false,
@@ -1125,7 +1125,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1702,
@@ -1139,7 +1139,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1703,
@@ -1150,7 +1150,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1704,
@@ -1161,7 +1161,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1705,
@@ -1172,13 +1172,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 19,
-      "code": "2-1",
+      "code": "19",
       "name": "香取市【栗源】",
       "icon": "🌾",
       "collapsed": false,
@@ -1195,7 +1195,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1802,
@@ -1209,7 +1209,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1803,
@@ -1220,7 +1220,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1804,
@@ -1231,7 +1231,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1805,
@@ -1242,13 +1242,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 20,
-      "code": "2-2",
+      "code": "20",
       "name": "多古町【船越・牛尾】",
       "icon": "🌾",
       "collapsed": false,
@@ -1262,7 +1262,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1902,
@@ -1273,7 +1273,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1903,
@@ -1284,7 +1284,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1904,
@@ -1295,7 +1295,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 1905,
@@ -1306,13 +1306,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 21,
-      "code": "2-2",
+      "code": "21",
       "name": "多古町【南並木】",
       "icon": "🌾",
       "collapsed": false,
@@ -1326,7 +1326,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2002,
@@ -1337,7 +1337,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2003,
@@ -1348,7 +1348,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2004,
@@ -1359,7 +1359,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2005,
@@ -1370,13 +1370,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 22,
-      "code": "2-2",
+      "code": "22",
       "name": "多古町【借当・谷津】",
       "icon": "🌾",
       "collapsed": false,
@@ -1390,7 +1390,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2102,
@@ -1401,7 +1401,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2103,
@@ -1412,7 +1412,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2104,
@@ -1423,7 +1423,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2105,
@@ -1434,13 +1434,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 23,
-      "code": "2-2",
+      "code": "23",
       "name": "多古町【高田】",
       "icon": "🌾",
       "collapsed": false,
@@ -1454,7 +1454,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2202,
@@ -1465,7 +1465,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2203,
@@ -1476,7 +1476,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2204,
@@ -1487,7 +1487,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2205,
@@ -1498,13 +1498,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 24,
-      "code": "3-1",
+      "code": "24",
       "name": "銚子市【岡野台】",
       "icon": "🌾",
       "collapsed": false,
@@ -1521,7 +1521,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2302,
@@ -1535,7 +1535,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2303,
@@ -1546,7 +1546,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2304,
@@ -1557,7 +1557,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2305,
@@ -1568,13 +1568,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 25,
-      "code": "3-1",
+      "code": "25",
       "name": "銚子市【本城】",
       "icon": "🌾",
       "collapsed": false,
@@ -1591,7 +1591,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2402,
@@ -1605,7 +1605,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2403,
@@ -1616,7 +1616,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2404,
@@ -1627,7 +1627,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2405,
@@ -1638,14 +1638,14 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 26,
-      "code": "3-2",
-      "name": "旭市【十日市場】",
+      "code": "26",
+      "name": "旭【十日市場】",
       "icon": "🌾",
       "collapsed": false,
       "tasks": [
@@ -1661,7 +1661,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2502,
@@ -1675,7 +1675,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2503,
@@ -1686,7 +1686,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2504,
@@ -1697,7 +1697,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2505,
@@ -1708,13 +1708,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 27,
-      "code": "3-2",
+      "code": "27",
       "name": "旭市【小川】",
       "icon": "🌾",
       "collapsed": false,
@@ -1731,7 +1731,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2602,
@@ -1745,7 +1745,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2603,
@@ -1756,7 +1756,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2604,
@@ -1767,7 +1767,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2605,
@@ -1778,13 +1778,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 28,
-      "code": "3-2",
+      "code": "28",
       "name": "旭市【川口工区】",
       "icon": "🌾",
       "collapsed": false,
@@ -1801,7 +1801,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2702,
@@ -1815,7 +1815,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2703,
@@ -1826,7 +1826,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2704,
@@ -1837,7 +1837,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2705,
@@ -1848,13 +1848,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 29,
-      "code": "3-2",
+      "code": "29",
       "name": "旭市【干潟】",
       "icon": "🌾",
       "collapsed": false,
@@ -1871,7 +1871,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2802,
@@ -1885,7 +1885,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2803,
@@ -1896,7 +1896,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2804,
@@ -1907,7 +1907,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2805,
@@ -1918,14 +1918,14 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 30,
-      "code": "3-3",
-      "name": "匝瑳市【八日市場】",
+      "code": "30",
+      "name": "八日市場",
       "icon": "🌾",
       "collapsed": false,
       "tasks": [
@@ -1941,21 +1941,21 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2902,
           "name": "地図作成・確認",
-          "ps": "2026-05-15",
+          "ps": "2026-04-15",
           "pe": "2026-06-15",
-          "as": "2026-05-15",
-          "ae": "2026-06-15",
+          "as": "2026-04-15",
+          "ae": "",
           "prog": 0,
           "members": [
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2903,
@@ -1966,7 +1966,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2904,
@@ -1977,7 +1977,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 2905,
@@ -1988,13 +1988,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 31,
-      "code": "3-3",
+      "code": "31",
       "name": "匝瑳市【野栄】",
       "icon": "🌾",
       "collapsed": false,
@@ -2011,7 +2011,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3002,
@@ -2025,7 +2025,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3003,
@@ -2036,7 +2036,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3004,
@@ -2047,7 +2047,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3005,
@@ -2058,13 +2058,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 32,
-      "code": "4-1",
+      "code": "32",
       "name": "横芝光町【光】",
       "icon": "🌾",
       "collapsed": false,
@@ -2081,7 +2081,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3102,
@@ -2095,7 +2095,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3103,
@@ -2106,7 +2106,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3104,
@@ -2117,7 +2117,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3105,
@@ -2128,13 +2128,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 33,
-      "code": "4-1",
+      "code": "33",
       "name": "横芝光町【小堤】",
       "icon": "🌾",
       "collapsed": false,
@@ -2151,7 +2151,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3202,
@@ -2165,7 +2165,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3203,
@@ -2176,7 +2176,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3204,
@@ -2187,7 +2187,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3205,
@@ -2198,13 +2198,13 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     },
     {
       "id": 34,
-      "code": "4-1",
+      "code": "34",
       "name": "横芝光町【鳥喰】上・沼",
       "icon": "🌾",
       "collapsed": false,
@@ -2221,7 +2221,7 @@
             "伊藤",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3302,
@@ -2235,7 +2235,7 @@
             "山田",
             "有馬"
           ],
-          "exported": true
+          "exported": false
         },
         {
           "id": 3303,
@@ -2246,7 +2246,7 @@
           "ae": "",
           "prog": 0,
           "members": [],
-          "exported": true
+          "exported": false
         }
       ]
     }
@@ -2254,5 +2254,5 @@
   "nextDistrictId": 35,
   "nextTaskId": 1,
   "viewYear": 2026,
-  "savedAt": "2026-04-23T05:50:20.020Z"
+  "savedAt": "2026-04-30T02:45:19.396Z"
 }
