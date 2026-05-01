@@ -2,7 +2,7 @@
   "districts": [
     {
       "id": 1,
-      "code": "1",
+      "code": "-",
       "name": "キントーン　じぶんページについて",
       "icon": "📁",
       "collapsed": false,
@@ -50,9 +50,9 @@
     },
     {
       "id": 2,
-      "code": "2",
-      "name": "市原市（海上）（麦）",
-      "icon": "🌾",
+      "code": "A",
+      "name": "市原市【海上】（麦）",
+      "icon": "🥖",
       "collapsed": false,
       "tasks": [
         {
@@ -112,8 +112,8 @@
     },
     {
       "id": 3,
-      "code": "3",
-      "name": "茂原市　茂原カントリー（松）",
+      "code": "B",
+      "name": "茂原市【茂原カントリー】（松）",
       "icon": "🌲",
       "collapsed": false,
       "tasks": [
@@ -175,8 +175,8 @@
     },
     {
       "id": 4,
-      "code": "4",
-      "name": "成田市　PGM（松）",
+      "code": "B",
+      "name": "成田市【PGM】（松）",
       "icon": "🌲",
       "collapsed": false,
       "tasks": [
@@ -228,8 +228,8 @@
     },
     {
       "id": 5,
-      "code": "5",
-      "name": "全農　長生（ハウス遮光）",
+      "code": "C",
+      "name": "全農【長生】（ハウス遮光）",
       "icon": "⛺",
       "collapsed": false,
       "tasks": [
@@ -289,8 +289,8 @@
     },
     {
       "id": 6,
-      "code": "6",
-      "name": "全農　東京都（産直センター遮光）",
+      "code": "C",
+      "name": "全農【東京都】（産直センター遮光）",
       "icon": "⛺",
       "collapsed": false,
       "tasks": [
@@ -2254,5 +2254,5 @@
   "nextDistrictId": 35,
   "nextTaskId": 1,
   "viewYear": 2026,
-  "savedAt": "2026-04-30T02:45:19.396Z"
+  "savedAt": "2026-05-01T00:12:36.047Z"
 }
